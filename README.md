@@ -18,10 +18,8 @@ This project deploys an AWS serverless application using AWS CDK (Python). It pr
 
 ## Architecture
 
-```mermaid
 The flow is: Manual trigger → Lambda scans S3 → Creates message → Publishes to SNS → Email notification"
 
-```
 
 ## Features
 
